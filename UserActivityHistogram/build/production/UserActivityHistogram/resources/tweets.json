@@ -1,0 +1,14 @@
+[
+	{ "hour": "0", "count": 10 },
+	{ "hour": "1", "count": 00 },
+	{ "hour": "8am", "count": 5 },
+	{ "hour": "9", "count": 2 },
+	{ "hour": "12pm", "count": 3 },
+	{ "hour": "16pm", "count": 3 },
+	{ "hour": "18", "count": 70 },
+	{ "hour": "19", "count": 100 },
+	{ "hour": "20", "count": 3 },
+	{ "hour": "21", "count": 200 },
+	{ "hour": "22", "count": 23 },
+	{ "hour": "23", "count": 10 }
+]
